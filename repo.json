@@ -1,3 +1,4 @@
+[
   {
     "Author": "Black Bird",
     "Name": "EasyStables",
@@ -17,5 +18,6 @@
     "DownloadLinkUpdate": "https://github.com/aancuta/ffxiv_chocobo_feeder/releases/download/1.0.0/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://github.com/aancuta/ffxiv_chocobo_feeder/releases/download/1.0.0/chocobo.png",
-    "originRepository": "https://github.com/aancuta/DalamudRepo/master/repo.json"
+    "originRepository": "https://raw.githubusercontent.com/aancuta/DalamudRepo/master/repo.json"
   },
+]
