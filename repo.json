@@ -6,7 +6,7 @@
     "Description": "A Dalamud plugin for feeding chocobos.",
     "Changelog": "-",
     "IsHide": false,
-    "InternalName": "EasyStables-Dalamud",
+    "InternalName": "EasyStables",
     "AssemblyVersion": "1.0.0",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/aancuta/ffxiv_chocobo_feeder",
