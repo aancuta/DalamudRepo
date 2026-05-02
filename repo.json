@@ -7,7 +7,7 @@
     "Changelog": "Patched for 7.5 APIs",
     "IsHide": false,
     "InternalName": "EasyStables",
-    "AssemblyVersion": "1.2.3",
+    "AssemblyVersion": "1.2.3.0",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/aancuta/ffxiv_chocobo_feeder",
     "ApplicableVersion": "any",
