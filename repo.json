@@ -11,7 +11,7 @@
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/aancuta/ffxiv_chocobo_feeder",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "DownloadCount": 1,
     "LastUpdate": 1773573148,
     "DownloadLinkInstall": "https://github.com/aancuta/ffxiv_chocobo_feeder/releases/download/1.2.3/EasyStables.zip",
